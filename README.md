@@ -1,6 +1,7 @@
 # Quiz Mania
 
-https://opentdb.com/api.php?amount=20&category=${9 to 32}&difficulty=${ easy or medium or hard }&type=multiple
+open this link (https://main--resonant-cheesecake-059d83.netlify.app/).
+github link (https://github.com/adityasharma10/quiz-mania)
 
 # Getting Started with Create React App
 

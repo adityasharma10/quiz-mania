@@ -6,12 +6,12 @@ const Footer = () => {
         marginBottom: 10,
       }}
     >
-      Made with ♥ by{" "}
+      Made with Material UI by
       <a
-        href="https://www.youtube.com/roadsidecoder"
+        href="https://www.linkedin.com/in/aditya-sharma-53013b170/"
         style={{ cursor: "pointer" }}
       >
-        Roadside Coder
+        Aditya Sharma
       </a>
     </div>
   );
